@@ -55,7 +55,7 @@ Follow these steps to get the app running on your local machine:
 
 1. **Start Screen**:
    - When you open the app, you'll see an intro screen with a button to start the quiz. 🎬
-   - Click **Start Quiz** to begin your journey! 🌟
+   - Click **Launch Mission** to begin your journey! 🌟
 
 2. **Taking the Quiz**:
    - The quiz consists of multiple-choice questions. 📋
