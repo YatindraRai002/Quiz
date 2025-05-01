@@ -30,7 +30,7 @@ Follow these steps to get the app running on your local machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/trivinity.git
+   git clone https://github.com/yatindrarai002/trivinity.git
 
 2. Navigate to the project directory:
 
