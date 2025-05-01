@@ -49,6 +49,8 @@ Follow these steps to get the app running on your local machine:
 
 5. Open http://localhost:3000 in your browser to start the quiz! 🎮
 
+---
+
 ## 📝 How to Use
 
 1. **Start Screen**:
@@ -66,6 +68,8 @@ Follow these steps to get the app running on your local machine:
 4. **Restarting the Quiz**:
    - Want to try again? Just click **Restart** on the results screen to begin a new quiz. 🔄
 
+---
+
 ## 📂 Project Structure
 
 Here’s an overview of the key files and components in the project:
@@ -76,6 +80,8 @@ Here’s an overview of the key files and components in the project:
 - **`ResultScreen.js`**: Shows the user’s score and a detailed breakdown of the quiz results. 📊
 - **`App.css`**: Contains the styles and layout for the application. 🎨
 - **`quizData.js`**: Contains the questions, options, and correct answers for the quiz. 📚
+
+---
 
 
 ## 🤝 Contributing
@@ -90,6 +96,8 @@ We welcome contributions to **Trivinity**! If you'd like to improve the project,
 4. Push to your branch: `git push origin feature-name`. 🚀
 5. Submit a pull request with a description of your changes. 📥
 
+---
+
 
 ## 💡 Acknowledgments
 
@@ -97,6 +105,7 @@ We welcome contributions to **Trivinity**! If you'd like to improve the project,
 - Huge shoutout to all open-source contributors for their tools and inspiration! 🌍
 - **FontAwesome** for their awesome icons used in the project. 🖼️
 - **React Icons** for easy access to a variety of icons. 📦
+---
 
 
 ## 📸 Screenshots
@@ -104,13 +113,14 @@ We welcome contributions to **Trivinity**! If you'd like to improve the project,
 Here are some screenshots of the **Trivinity** quiz app in action!
 
 ### 1. Start Screen
-![Start Screen](Screenshot 2025-05-01 233041.png)
+![Start Screen](https://github.com/YatindraRai002/Quiz/blob/main/Screenshot%202025-05-01%20233041.png)
 
 ### 2. Quiz Screen
-![Quiz Screen](Screenshot 2025-05-01 233157.png)
+![Quiz Screen](https://github.com/YatindraRai002/Quiz/blob/main/Screenshot%202025-05-01%20233157.png)
 
 ### 3. Results Screen
-![Results Screen](Screenshot 2025-05-01 233223.png)
+![Results Screen](https://github.com/YatindraRai002/Quiz/blob/main/Screenshot%202025-05-01%20233223.png)
+
 
 
 
