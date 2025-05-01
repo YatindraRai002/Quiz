@@ -4,19 +4,6 @@ Welcome to **Trivinity** — a fun and interactive web development quiz app buil
 
 ---
 
-## 📑 Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [How to Use](#how-to-use)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## 🌟 Features
 
 - **Interactive Quiz**: Test your knowledge with multiple-choice questions across various web development topics. 📚
@@ -110,5 +97,20 @@ We welcome contributions to **Trivinity**! If you'd like to improve the project,
 - Huge shoutout to all open-source contributors for their tools and inspiration! 🌍
 - **FontAwesome** for their awesome icons used in the project. 🖼️
 - **React Icons** for easy access to a variety of icons. 📦
+
+
+## 📸 Screenshots
+
+Here are some screenshots of the **Trivinity** quiz app in action!
+
+### 1. Start Screen
+![Start Screen](Screenshot 2025-05-01 233041.png)
+
+### 2. Quiz Screen
+![Quiz Screen](Screenshot 2025-05-01 233157.png)
+
+### 3. Results Screen
+![Results Screen](Screenshot 2025-05-01 233223.png)
+
 
 
