@@ -1,7 +1,7 @@
 # Trivinity - Web Development Quiz App 🚀
 
 Welcome to **Trivinity** — a fun and interactive web development quiz app built with **React**! 🎮 Whether you're a beginner or an experienced developer, test your knowledge on topics like **JavaScript**, **HTML**, **CSS**, and **popular web frameworks**. It's the perfect tool to improve your coding skills and challenge yourself! 💻✨
-
+Link of the App https://quiz-iota-two-27.vercel.app/
 ---
 
 ## 🌟 Features
